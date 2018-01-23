@@ -12,6 +12,10 @@ description:      'You will find (almost) everything important about me here.'
 url:              http://xitizzz.github.io
 baseurl:          /
 
+email: kshitij.shah.cs@gmail.com
+github_username:  xitizzz
+linkedin_public_url: loremipsum
+
 author:
   name:           'Kshitij '
   url:            https://twitter.com/xitizzz
@@ -23,3 +27,5 @@ version:          2.1.0
 
 github:
   repo:           https://xitizzz.github.io
+
+
