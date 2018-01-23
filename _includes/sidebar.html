@@ -9,9 +9,11 @@
       <p class="lead">{{ site.description }}</p>
     </div>
     
-    <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
+    <div class="icons-home">
+      <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
            <svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg>
-    </a>
+      </a>
+      </div>
     
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
