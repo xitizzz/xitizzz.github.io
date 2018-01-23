@@ -10,7 +10,7 @@ title:            'Kshitij Shah'
 tagline:          'Data Scientist'
 description:      'You will find (almost) everything important about me here.'
 url:              http://xitizzz.github.io
-baseurl:          /about
+baseurl:          /
 
 author:
   name:           'Kshitij '
