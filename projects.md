@@ -3,28 +3,28 @@ layout: page
 title: Projects
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Traffic Analysis from CCTV Footage (for CAIT)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* I worked on this project with Dr. Xiang Liu as part of my job at Center for Advance Infrastructure and Transportation (CAIT).
+* For this project I developed a computer vision program to analyze the traffic from CCTV footage for Center for Advanced Infrastructure and Transportation. 
+* The program would take a video file consiting CCTV footage at a railway crossing and computed count, relative speed, direction and time of crossing for both pedestrians and vehicles. 
+* The program achieved accuracy of 94% and computation time 60% less than actual video time, making it suitable for real time application. * The project was oriented on creating computationaly light weight video processing solution which can potentially be used on light weight systems (like raspberry pi) in real time.
+* The program used background subtraction and Kalman filter for tracking and counting.
 
-There are currently two themes built on Poole:
+Github : As this project is confidential, the Git repository is private. I have asked for permission to share some details of the project.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Understanding Crowd Behavior using Unsupervised Deep Neural Networks
 
-## Setup
+* For this project we deployed two individual models for simulating crowd movement behavior in public places, such as subway stations, in a team of four.
+* The proposed approaches include non-linear PCA based networks belonging to the autoencoders family more specifically Variational Autoencoders, as well as deep generative models trained under an adversarial setting more specifically WGAN.
+* I was soleley responsible for representation and feature extraction, where I created a novel representation which used probabilistic heat map generated with overlapping Gaussian kernels.
 
-Some fun facts about the setup of this project include:
+Project Report : 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Proposing a Novel Method for Fake News Classification
+* In this study after exhaustive study of current methods for fake news detection, we came up with ensemble model consisting two classifiers.
+* First was a model with an information retrieval module and a feed forward neural network to integrate the knowdlegebase for fake news detection. Second was style based classification model utilising word embeddings and Bi-LSTM.
 
-Thanks for reading!
+Project Report : 
