@@ -3,10 +3,10 @@ layout: page
 title: About
 ---
 
-I am currenly doing MS in Computer Science at [Rutgers Univesity](https://www.rutgers.edu). I am also working as a Data Scientist with Dr. Xiang Liu in the Transportation Enginering Department. For the last few months I have been involved in a risk analysis project as a Data Scientist, where we developed models for rail defect predictions.
+I am currenly working as a Data Scientist at Black Knight Inc. I have completed MS in Computer Science from [Rutgers Univesity](https://www.rutgers.edu). While in school, I also worked as a Research Data Scientist with [Dr. Xiang Liu](https://cee.rutgers.edu/fac/xiang-liu) in the Center for Advanced Infrastructure and Transportation. 
 
-Click here to see my full [Resume](https://xitizzz.github.io/assets/Kshitij_Shah_Resume_2018.pdf).
+I am interested in anything and everything that includes huge amount of data and/or complex coding (best if both). I am perticularly interested if machine learning part of data science, as it is often the most exciting part and also the most chellanging.
 
+You can see selected project in the [project section](/projects) and github profile [here](https://github.com/xitizzz).
 
-
-
+Check my Resume [here](https://xitizzz.github.io/assets/Kshitij_Shah_Resume_2018.pdf).
