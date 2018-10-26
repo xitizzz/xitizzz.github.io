@@ -27,4 +27,10 @@ Read project report [here](https://xitizzz.github.io/assets/fake_news.pdf)
 * The project was oriented on creating computationally light weight video processing solution which can potentially be used on light weight systems (like raspberry pi) in real time.
 * The program used background subtraction and Kalman filter for tracking and counting.
 
-As this project is confidential, currently I am unable to share code and other details. I have asked for permission to share more. 
+As this project is confidential, currently I am unable to share code and other details. I have asked for permission to share more.
+
+### Toxic Comment Classification with CNN for Text
+Demonstration of text based convolutional neural networks for toxic comment classification. Check git repository [here](https://github.com/xitizzz/Text-CNN-Toxic-Comment-Classification).
+
+### Traffic Sign Recognition using Deep Neural Network
+Implementation convolutional neural networks using [Keras](https://keras.io/) to recognize GTSRB traffic signs. Check git repository [here](https://github.com/xitizzz/Traffic-Sign-Recognition-using-Deep-Neural-Network).
