@@ -9,7 +9,7 @@ title: Projects
 * The proposed approaches include non-linear PCA based networks belonging to the autoencoders family (variational autoencoders among others), as well as deep generative models trained under an adversarial setting (generative adversarial network or GAN).
 * We also developed a unique approach for crowd movement representation, it used probabilistic heat map generated with overlapping Gaussian kernels to simulate crowd densities.
 
-Read project report [here](https://xitizzz.github.io/assets/crowd.pdf)
+Project report: On request <!--- [here](https://xitizzz.github.io/assets/crowd.pdf) --->
 
 
 ### Proposing a Novel Method for Fake News Classification
